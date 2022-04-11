@@ -2,7 +2,7 @@ This is my very first project in React and getting hands on with Github as well
 I created a very simple page to display a family image and welcomes you to the family.
 Thank you for visting my page!
 
-![image](https://user-images.githubusercontent.com/103451063/162824722-00a95c36-3855-4409-980c-7b807d6cd29f.png)
+<img width="548" alt="image" src="https://user-images.githubusercontent.com/103451063/162825002-83a3ecbf-55b7-4625-975e-cf16f5a5d15b.png">
 
 
 # Getting Started with Create React App
