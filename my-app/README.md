@@ -1,3 +1,10 @@
+This is my very first project in React and getting hands on with Github as well
+I created a very simple page to display a family image and welcomes you to the family.
+Thank you for visting my page!
+
+![image](https://user-images.githubusercontent.com/103451063/162824722-00a95c36-3855-4409-980c-7b807d6cd29f.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
